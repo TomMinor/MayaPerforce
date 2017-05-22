@@ -1,6 +1,7 @@
 # Perforce for Maya
 
-**Work in progress**
+## This was the basis for [P4VFX](https://github.com/TomMinor/P4VFX), which includes all the features of MayaPerforce and more, including support for other applications as well such as Houdini and Nuke!
+## Please use [P4VFX](https://github.com/TomMinor/P4VFX) as this is no longer being actively maintained and only exists to demonstrate the level I was at during university.
 
 A minimal Maya Python plugin using the [P4Python API](https://www.perforce.com/downloads/helix#product-54), this toolset is intended to make working with Perforce from within Maya simple for artists. 
 
